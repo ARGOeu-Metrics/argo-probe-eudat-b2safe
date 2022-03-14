@@ -1,4 +1,4 @@
-PKGNAME=nagios-plugins-eudat-b2safe
+PKGNAME=argo-probe-eudat-b2safe
 SPECFILE=${PKGNAME}.spec
 FILES=Makefile ${SPECFILE} check_irods.sh
 
