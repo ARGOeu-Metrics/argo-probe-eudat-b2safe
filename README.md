@@ -1,4 +1,4 @@
-# iRODS probe
+# EUDAT B2SAFE
 ===========
 
 Monitoring probes for the B2SAFE component iRODS.
