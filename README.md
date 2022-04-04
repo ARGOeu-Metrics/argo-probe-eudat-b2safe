@@ -1,7 +1,7 @@
-# iRODS probe
+# EUDAT B2SAFE
 ===========
 
-Nagios probe for the B2SAFE component iRODS.
+Monitoring probes for the B2SAFE component iRODS.
 It is implemented as a bash script.
 
 ## Dependencies
